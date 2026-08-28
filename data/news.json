@@ -1,0 +1,87 @@
+{
+  "updated_at": "2026-08-27T00:00:00Z",
+  "count": 9,
+  "items": [
+    {
+      "id": "seed001",
+      "title": "2026 護膚五大趨勢：K-beauty 骨針成分、Beta-glucan 屏障修護與醫美級保養興起",
+      "link": "https://cosmeticsbusiness.com/cosmetics-business-reveals-the-top-5-skin-care-2",
+      "source": "Cosmetics Business",
+      "published": "2026-08-01T00:00:00Z",
+      "category": "韓系保養",
+      "summary": "報告指出玻璃肌熱潮持續，但消費者更重視長期屏障修護；新成分「骨針」被稱為瓶裝微針。"
+    },
+    {
+      "id": "seed002",
+      "title": "K-Beauty 如何重新定義高端保養：從歐洲血統轉向韓國再生科學",
+      "link": "https://www.forbes.com/sites/laiafarrangraves/2026/08/18/k-beauty-trends-redefining-the-future-of-luxury-skincare/",
+      "source": "Forbes",
+      "published": "2026-08-18T00:00:00Z",
+      "category": "韓系保養",
+      "summary": "消費者開始詢問 PDRN、外泌體、胜肽等來自韓國診所的技術，高端保養版圖正在轉移。"
+    },
+    {
+      "id": "seed003",
+      "title": "首爾美妝展十大創新看點：植物性 PDRN 成為年輕韓國品牌新賣點",
+      "link": "https://www.premiumbeautynews.com/en/k-beauty-top-10-innovative,27719",
+      "source": "Premium Beauty News",
+      "published": "2026-06-08T00:00:00Z",
+      "category": "韓系保養",
+      "summary": "PDRN 仍是年度最受矚目成分，但素食版本正快速崛起，鎖定 Z 世代消費者。"
+    },
+    {
+      "id": "seed004",
+      "title": "診所成分正在下放貨架：韓國開架保養品加速複製醫美級配方",
+      "link": "https://greyb.com/blog/korean-beauty-trends",
+      "source": "GreyB",
+      "published": "2026-05-28T00:00:00Z",
+      "category": "醫美趨勢",
+      "summary": "PDRN、外泌體等原本限於診所的成分，正以十分之一價格出現在開架通路並迅速售罄。"
+    },
+    {
+      "id": "seed005",
+      "title": "外泌體保養科學解析：2026 年韓妝最重要的技術轉折點",
+      "link": "https://knokglobal.com/blog/exosome-skincare-k-beauty",
+      "source": "KNOK Global",
+      "published": "2026-07-27T00:00:00Z",
+      "category": "醫美趨勢",
+      "summary": "外泌體精華正從精品定價走向大眾市場，西方零售通路的競爭者仍相對稀少。"
+    },
+    {
+      "id": "seed006",
+      "title": "皮膚回春注射天王：Skin Booster 供應商解析 2026 醫美通路策略",
+      "link": "https://www.jy-solution.com/post/skin-boosters-in-2026-the-future-of-aesthetic-rejuvenation-for-clinics-and-distributors",
+      "source": "JY Solution",
+      "published": "2026-01-16T00:00:00Z",
+      "category": "醫美趨勢",
+      "summary": "韓國醫美原廠正積極尋找海外獨家代理夥伴，擴大玻尿酸、PDRN、外泌體複方供應。"
+    },
+    {
+      "id": "seed007",
+      "title": "獨立美妝品牌靠 TikTok Shop 一年狂賣逾五億美元，韓系保養品牌奪冠",
+      "link": "https://www.beautyindependent.com/indie-beauty-brands-surpassed-500-million-on-tiktok-shop-in-the-past-year/",
+      "source": "Beauty Independent",
+      "published": "2026-07-27T00:00:00Z",
+      "category": "新品牌動態",
+      "summary": "韓系保養品牌以按摩霜與去角質產品拿下近三成集團營收，成長集中在極少數贏家。"
+    },
+    {
+      "id": "seed008",
+      "title": "全球美妝週報：Coty 恢復成長、珀萊雅攜手 Ulta 進軍美國高端保養",
+      "link": "https://www.globalcosmeticsnews.com/global-cosmetics-news-weekly-review-week-34-august-2026/",
+      "source": "Global Cosmetics News",
+      "published": "2026-08-22T00:00:00Z",
+      "category": "產業動態",
+      "summary": "中韓品牌加速海外市場布局，珀萊雅進美國、愛茉莉太平洋 Mamonde 進軍印度。"
+    },
+    {
+      "id": "seed009",
+      "title": "8 月全球美妝新品週報：唇部雙效設計與複方底妝成焦點",
+      "link": "https://beautymatter.com/articles/2026-week-34-beauty-brand-and-product-launches",
+      "source": "BeautyMatter",
+      "published": "2026-08-20T00:00:00Z",
+      "category": "產業動態",
+      "summary": "Milk Makeup、Fenty Beauty、Kayali 等品牌本週集中發表跨品類新品。"
+    }
+  ]
+}

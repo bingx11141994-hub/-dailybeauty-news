@@ -1,0 +1,343 @@
+/* ---------------------------------------------------------------------
+   Design tokens
+   Palette is drawn from the subject itself: celadon (Korean ceramics /
+   glass-skin) for skincare, ampoule-cap coral for medical aesthetics,
+   a muted gold for brand news, slate for general industry news.
+--------------------------------------------------------------------- */
+:root {
+  --bg: #EEF0EA;
+  --surface: #FFFFFF;
+  --ink: #1E2A24;
+  --ink-soft: #55635B;
+  --hairline: #D7DCD3;
+
+  --accent-skincare: #3F7A66;
+  --accent-medical: #C1503C;
+  --accent-brand: #A9832E;
+  --accent-industry: #5B6B78;
+
+  --accent-skincare-soft: #E4EEE8;
+  --accent-medical-soft: #F5E4DF;
+  --accent-brand-soft: #F1E8D2;
+  --accent-industry-soft: #E6E9EB;
+
+  --font-display: "Noto Serif TC", serif;
+  --font-body: "Noto Sans TC", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+
+  --radius: 6px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.6;
+}
+
+a { color: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--accent-skincare);
+  outline-offset: 2px;
+}
+
+/* ---------------------------------------------------------------------
+   Masthead
+--------------------------------------------------------------------- */
+.masthead {
+  border-bottom: 1px solid var(--hairline);
+  background:
+    linear-gradient(180deg, rgba(63, 122, 102, 0.07), rgba(63, 122, 102, 0) 70%);
+}
+
+.masthead__inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 3.2rem 1.5rem 2rem;
+}
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent-skincare);
+  margin: 0 0 0.8rem;
+}
+
+.masthead__title {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: clamp(2.2rem, 5vw, 3.2rem);
+  margin: 0 0 0.6rem;
+  letter-spacing: 0.01em;
+}
+
+.masthead__subtitle {
+  font-size: 1rem;
+  color: var(--ink-soft);
+  margin: 0 0 1.4rem;
+  max-width: 46ch;
+}
+
+.masthead__meta {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+
+.masthead__divider { opacity: 0.5; }
+
+.pulse {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent-skincare);
+  display: inline-block;
+  animation: pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.35; transform: scale(0.75); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse { animation: none; }
+}
+
+/* ---------------------------------------------------------------------
+   Filters
+--------------------------------------------------------------------- */
+.filters {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--bg);
+  border-bottom: 1px solid var(--hairline);
+}
+
+.filters__inner {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+}
+
+.filter-pill {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  border: 1px solid var(--hairline);
+  background: var(--surface);
+  color: var(--ink-soft);
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.filter-pill:hover {
+  border-color: var(--accent-skincare);
+}
+
+.filter-pill[data-active="true"] {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--surface);
+}
+
+/* ---------------------------------------------------------------------
+   Layout
+--------------------------------------------------------------------- */
+.layout {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.6rem 1.5rem 3rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 2rem;
+  align-items: start;
+}
+
+@media (max-width: 880px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ---------------------------------------------------------------------
+   Feed / article rows
+--------------------------------------------------------------------- */
+.feed__loading,
+.feed__empty {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+  padding: 2rem 0;
+}
+
+.article-row {
+  display: grid;
+  grid-template-columns: 20px minmax(0, 1fr);
+  gap: 0.9rem;
+  padding: 1.15rem 0;
+  border-bottom: 1px solid var(--hairline);
+  animation: rise 0.4s ease both;
+}
+
+.article-row:first-child { padding-top: 0; }
+
+@keyframes rise {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .article-row { animation: none; }
+}
+
+/* Signature element: the "dose meter" — a small ampoule-like vial whose
+   fill level encodes how recent the item is, colored by category. */
+.dose-meter {
+  width: 12px;
+  height: 100%;
+  min-height: 46px;
+  border: 1px solid var(--hairline);
+  border-radius: 5px;
+  background: var(--surface);
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+}
+
+.dose-meter__fill {
+  width: 100%;
+  height: var(--fill, 20%);
+  border-radius: 3px 3px 0 0;
+}
+
+.article-row[data-category="韓系保養"] .dose-meter__fill { background: var(--accent-skincare); }
+.article-row[data-category="醫美趨勢"] .dose-meter__fill { background: var(--accent-medical); }
+.article-row[data-category="新品牌動態"] .dose-meter__fill { background: var(--accent-brand); }
+.article-row[data-category="產業動態"] .dose-meter__fill { background: var(--accent-industry); }
+
+.article-row__eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  color: var(--ink-soft);
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin-bottom: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.category-tag {
+  padding: 0.1rem 0.5rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.article-row[data-category="韓系保養"] .category-tag { background: var(--accent-skincare-soft); color: var(--accent-skincare); }
+.article-row[data-category="醫美趨勢"] .category-tag { background: var(--accent-medical-soft); color: var(--accent-medical); }
+.article-row[data-category="新品牌動態"] .category-tag { background: var(--accent-brand-soft); color: var(--accent-brand); }
+.article-row[data-category="產業動態"] .category-tag { background: var(--accent-industry-soft); color: var(--accent-industry); }
+
+.article-row__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.08rem;
+  margin: 0 0 0.3rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.article-row__title:hover { text-decoration: underline; }
+
+.article-row__summary {
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+/* ---------------------------------------------------------------------
+   Radar sidebar
+--------------------------------------------------------------------- */
+.radar {
+  position: sticky;
+  top: 4.2rem;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.2rem 1.4rem;
+}
+
+.radar__title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  margin: 0 0 0.2rem;
+}
+
+.radar__hint {
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+  margin: 0 0 1rem;
+}
+
+.radar__block { margin-bottom: 1.1rem; }
+.radar__block:last-child { margin-bottom: 0; }
+
+.radar-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.82rem;
+  padding: 0.3rem 0;
+}
+
+.radar-row__label { color: var(--ink); }
+.radar-row__count {
+  font-family: var(--font-mono);
+  color: var(--ink-soft);
+}
+
+.radar-row__bar {
+  grid-column: 1 / -1;
+  height: 3px;
+  background: var(--hairline);
+  border-radius: 2px;
+  overflow: hidden;
+  margin-top: 0.2rem;
+}
+
+.radar-row__bar-fill {
+  height: 100%;
+  background: var(--accent-skincare);
+}
+
+@media (max-width: 880px) {
+  .radar { position: static; }
+}
+
+/* ---------------------------------------------------------------------
+   Footer
+--------------------------------------------------------------------- */
+.site-footer {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}

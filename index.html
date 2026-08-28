@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>美妝情報所 · 韓系保養 × 醫美情報</title>
+<meta name="description" content="每日彙整韓系保養與醫美趨勢新聞，自動更新。" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@500;700;900&family=Noto+Sans+TC:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead__inner">
+      <p class="eyebrow">DAILY DOSAGE · 每日彙整</p>
+      <h1 class="masthead__title">美妝情報所</h1>
+      <p class="masthead__subtitle">韓系保養成分動向 × 醫美診間新技術，每天自動更新一次</p>
+      <div class="masthead__meta">
+        <span class="pulse" aria-hidden="true"></span>
+        <span id="updated-at">讀取更新時間中…</span>
+        <span class="masthead__divider">·</span>
+        <span id="item-count">— 則</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="filters" aria-label="分類篩選">
+    <div class="filters__inner" id="filters"></div>
+  </nav>
+
+  <main class="layout">
+    <section class="feed" id="feed" aria-live="polite">
+      <p class="feed__loading">正在載入今天的資料…</p>
+    </section>
+
+    <aside class="radar">
+      <h2 class="radar__title">來源雷達</h2>
+      <p class="radar__hint">今天出現次數最多的分類與來源</p>
+      <div id="radar-categories" class="radar__block"></div>
+      <div id="radar-sources" class="radar__block"></div>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      資料每天由 GitHub Actions 自動抓取公開 RSS 來源整理而成，僅供追蹤趨勢參考；
+      詳細內容請點進原始連結閱讀。
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
