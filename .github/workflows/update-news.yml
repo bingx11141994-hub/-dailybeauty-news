@@ -1,0 +1,36 @@
+name: Update Beauty News
+
+on:
+  schedule:
+    # 23:00 UTC = 台北時間早上 07:00。要改時間就改這行（cron 是 UTC 時區）。
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}   # 讓你可以在 GitHub 網頁上手動按「Run workflow」立刻測試
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch latest beauty news
+        run: python scripts/fetch_news.py
+
+      - name: Commit updated data (if changed)
+        run: |
+          git config user.name "beauty-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "chore: update beauty news $(date -u +%Y-%m-%d)"
+          git push
