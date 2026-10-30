@@ -1,7 +1,88 @@
 {
-  "updated_at": "2026-10-29T02:07:41Z",
+  "updated_at": "2026-10-30T02:24:42Z",
   "count": 48,
   "items": [
+    {
+      "id": "a5b0900e4b36",
+      "title": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQlVnaks0cmpGS3FtNXpuTlVNSWEyOVBxSV93V2RvdEswMWtMQ1RaQkFwNm80TG1GWEZqRW5MLUJOQW1MVF9HN0VYa2h1bFV2cTNSLUZ5YUdmbkVBRUlLdW15QnB3dlJTbVYtVE9iNS1BemhXV05vTUg1Z3VtVXVuZk53bzJObUpKaDRtM1AxaldodEViZE45X2lCZXBCelk?oc=5",
+      "source": "WWD",
+      "published": "2026-10-29T21:56:15Z",
+      "category": "產業動態",
+      "summary": "Meet the Korean Wellness Brand Bringing Matcha to the Beauty Aisle WWD"
+    },
+    {
+      "id": "2e32e5326050",
+      "title": "眼部整形重視個人條件評估 謝忠佑醫師於學會研討會分享臨床經驗",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxQNXNfZ3NOa29fTW9mZkhJVjJyMWFuSml0OHFsUTAteEp2M3E5Z3dEZ2luY2Ita0pTX1RWZy1QUDhNVXoxMlY1ZTk2OXk2TnpIX3VBSFhjOFRVSmR2MEZyVHEyQjBhdDdoN09GU3ZwVmx6N0dlWFA0Nm5UXzJnM0RPMGdxVTNLeUtkeUtjN0NldERjdUlpUUE5dk9rQmdzTWFwR05sd2dJbG5nZWVjd083d21nbUF3Z3A2cDdoeFg5Q094aXJzZG9Kb3ZLeHhxSjFCUlVrWEpvUlJiNnpyQkJEWU5JendabGhaejlFMDFHcUVraDZLWlR6LWxIam5NVXE1eHBRYm5WNmlxc2trZEhkeUVuck9YeVNxOWJfVWRfOFMxQ2N1anNWVUU0amVvaUZPMTByczNBVGdWWDJOR3hpNXBVdm45aF82Z3c5TnA1NUU0dHVmSEZ2Z3dGRjN6MWdsUlFmN3BnVjVZYmVkeDJQNG51REpNNEFTRmV5NlZoYnJUMnJBUG52WU8xX0hIc1ROVjhieC15emk5cUI0Y1dCQUNweUN4MlJReVpMWnVKVl8?oc=5",
+      "source": "Yahoo新聞",
+      "published": "2026-10-29T14:44:17Z",
+      "category": "醫美趨勢",
+      "summary": "眼部整形重視個人條件評估 謝忠佑醫師於學會研討會分享臨床經驗 Yahoo新聞"
+    },
+    {
+      "id": "e130a22248ce",
+      "title": "The Best Collabs This Week From H&M, LoveShackFancy & Adidas",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzaV9oSHVIYllfV0JBTXVGbkZxSUpmMmVNSll2SGp6d1JmbnlpQ1FDLVRkTHBIQkh3aVZ3U2JXWU9zZ0phUlMzc0xUV2JfLUMxd21CUWI2c2FwbkhFMUNPN1V2Tk9GcDA?oc=5",
+      "source": "Refinery29",
+      "published": "2026-10-29T13:45:00Z",
+      "category": "新品牌動態",
+      "summary": "The Best Collabs This Week From H&M, LoveShackFancy & Adidas Refinery29"
+    },
+    {
+      "id": "ce5b428daa3c",
+      "title": "Puig Announces Its Vision 2023 Plan to Become a Top 4 Beauty Company",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUM0M05EMDA4LWZVWnp6V1lVTWtnR2J1N080c1NDZlNGVi1DZ3RiT3RSeVdKVmk0bG9WeHpRdnZZSUU0NUdndWY4VjYtNGtjSVYyeVVHRUFGdnMwTF84V2dRTlowNUFUeHRaNTk4bmM3SmcyM20wRkcya3RlVEYwb0FuVUpMVTJrXzlrTHNXTnIwVTY4eUgwVjJXTXhPdjA4TkFiajVjaWRvaElyUU1qMDZ4UUpoQQ?oc=5",
+      "source": "Beauty Packaging",
+      "published": "2026-10-29T13:43:48Z",
+      "category": "產業動態",
+      "summary": "Puig Announces Its Vision 2023 Plan to Become a Top 4 Beauty Company Beauty Packaging"
+    },
+    {
+      "id": "bdf036b1a131",
+      "title": "Estée Lauder Cos Releases 2026 Sustainability Report",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjBLdV9rRkNJeEppZWcxRW44d2pPTjE4ZTZlNjBVd1JTQTVfSDh4MEJjQXpha21nN2FsU1pfN0xzdGdxLUs5dWVzVDU3bjJrNENzTmhWV1hkZDlkdm1Sbm93Z0pUWHVxZlBON0RwX1RCNkJNLUtkRDJxQUdIQWljbGtDWWVTbmEteHpIaXp6VThKd1Rnb2tvWTNtYml4ODVZ?oc=5",
+      "source": "Beauty Packaging",
+      "published": "2026-10-29T13:03:41Z",
+      "category": "產業動態",
+      "summary": "Estée Lauder Cos Releases 2026 Sustainability Report Beauty Packaging"
+    },
+    {
+      "id": "dc445958f98c",
+      "title": "謝忠佑醫師受邀擔任第44屆台灣微整形美容醫學會講師 分享「原⽣感」雙眼⽪臨床經驗",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43ZlE5WVJ6VkpObTJzaDVjM3FCRGRIM1BHaEQwakFScHE4enBUUnFvNVhDV2lDbzBFdDBucWRGdnM3WlFlaWQwMTNhTW15NkE3Zmc?oc=5",
+      "source": "蕃新聞",
+      "published": "2026-10-29T10:33:34Z",
+      "category": "醫美趨勢",
+      "summary": "謝忠佑醫師受邀擔任第44屆台灣微整形美容醫學會講師 分享「原⽣感」雙眼⽪臨床經驗 蕃新聞"
+    },
+    {
+      "id": "2933dcc5a51e",
+      "title": "Poshglow skincare marks nine years in Nigeria’s beauty industry",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa3o3YUJobDRSSTR4XzFGdFpHeFQ2dkdnSmdfTWxsMTdYLXhmc0tUUGFYUXdsRVN3UVJLTkxJTlB4Zmc1UGNZcjV4ODg3WGg3bkRCMWJsOExCU3VmcWVyUDYtMF9ORlh1QmRZSUwxS3E5WnZETnBDRmE4Q2dXam1uN1NrdDJPMzVYd0tPeGRaNWMxTDg2cGc5eDVXVjZDSmVx0gGmAUFVX3lxTE9fQXMwdE9USm9sUUhjanNXSklXTXBBVmFtNHJVX0ZaMDBWMzhMLXNVSlJ6eXp1VXYxdGJVSDRFR2MyRDh1elRkSmVZWmU2LUlZaklXeWcyNUNkMk9ray1mNVhKc0JyLWNjbGR1YzNPSGY1b3FJZ3paSzdEaEVZM1Qwb1Jqdnl5N3FvdG1UdTIxTnpyM0VqZE9WOEFBaXdsNlNLcThZSlE?oc=5",
+      "source": "Vanguard News",
+      "published": "2026-10-29T07:38:54Z",
+      "category": "產業動態",
+      "summary": "Poshglow skincare marks nine years in Nigeria’s beauty industry Vanguard News"
+    },
+    {
+      "id": "4e8ec643b1c5",
+      "title": "[Exclusive] South Korea's K-Beauty Status Soars, but Complaints Over Cosmetic Medical Services Surge 38%",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55Tnh4OU5IcU9WT0VnLWotM2dZbW03NkFPLU9LQWJranFTelNVSHpsbk9wNmQ3UXpYWFVkaFZOYmdVbkdibThHZ0JjM1JaOFc1cWZqbHIxSVBmdHozYTFEQlZjOGo?oc=5",
+      "source": "아시아경제",
+      "published": "2026-10-29T02:05:00Z",
+      "category": "醫美趨勢",
+      "summary": "[Exclusive] South Korea's K-Beauty Status Soars, but Complaints Over Cosmetic Medical Services Surge 38% 아시아경제"
+    },
+    {
+      "id": "25826c50b8f0",
+      "title": "CELSET Launches SOLTOX, a Korean Botulinum Toxin Type A Brand, for International Markets",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tTnBsZDJzWDRnRlNtSVFCN2w1cWdGalJ5SnNfcTdhMjRpOU1LZWlWdjZYYlFjbV9rWEdiVnlPeGE2ekRwNGVleFp5UzNwMmhHT05TVktoY0xPdw?oc=5",
+      "source": "Japan Wire by Kyodo News",
+      "published": "2026-10-29T02:01:00Z",
+      "category": "醫美趨勢",
+      "summary": "CELSET Launches SOLTOX, a Korean Botulinum Toxin Type A Brand, for International Markets Japan Wire by Kyodo News"
+    },
     {
       "id": "32998c835ea9",
       "title": "「日本蛇精男」是前王牌投手之子　千萬整形闖演藝圈",
@@ -10,60 +91,6 @@
       "published": "2026-10-29T01:03:00Z",
       "category": "醫美趨勢",
       "summary": "「日本蛇精男」是前王牌投手之子 千萬整形闖演藝圈 鏡週刊Mirror Media"
-    },
-    {
-      "id": "de2f09f991f1",
-      "title": "減肥就是最好的整形！51歲媽3個月從70→58kg，女兒一看驚喊認不出",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQYkFWUllJdnJFQkhGZE1VOXdUbXVmMW40LWdPZUZKdkNSbzBzWmktU2s5TFhFVGFmT0V5WUppQlBrVnE4ZUZtWHBHTTB2bTVpcUFLTHdlVVp2U0pEQWdoNzdLR2FZLWRKemllUTlCR1Zlc0JxaTFzY3h2N21lOERRcnhfR0ZIUVRkOHhRN0tMaHM5Q2hROUFNSDdYZFhrd0k5Vkg0UmVwemJYbVlReHR3Y3ZTR1hXa2RfcFNWWHBseE5nb0ZaSmtQUTVzdXBFdk5xNDN1ZzJoRGI0QnlYcklmMnhYa2pTYWNhRzRvU1d4a2g0bl9JdEVwVFUtNHNMT2VobWFsZ2x3TmxrRURmQmlKaURiaUVKYXI1bXR6YTJnRWNlajBSRjNHRWptaXp2YzRieGR6bjJVTklkeHRNOVZpWm1nNklRUm1nQ1dhb3UtUVE0MHFGSFMwb3B0WnhhRXNiYXNnZjBxRmhKSnlX?oc=5",
-      "source": "Yahoo新聞",
-      "published": "2026-10-29T00:02:34Z",
-      "category": "醫美趨勢",
-      "summary": "減肥就是最好的整形！51歲媽3個月從70→58kg，女兒一看驚喊認不出 Yahoo新聞"
-    },
-    {
-      "id": "b2e267109f6b",
-      "title": "How Ben Bennett and The Center Are Shaping the Beauty Industry",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTlabEIwRkxkOF8xSUdDZVVSTnVSbHJCX0xkdy13OWJZZ3k3MnVxYVBrdXBDZnpEaHhRbHNJQ1J1WHpMR2R4Tm1meWppcTRVVWh0UmNSd09ISUFXRW9yTkNWMzhEcXZYMTlNY05BajV5OGRHdkQzblp6Y1VQa0wxXzB0R3JJbk9fREJ3c0ZUQnpqcVlfNHpJYm1BbGQ4aDdKT3lJ?oc=5",
-      "source": "WWD",
-      "published": "2026-10-28T17:38:10Z",
-      "category": "產業動態",
-      "summary": "How Ben Bennett and The Center Are Shaping the Beauty Industry WWD"
-    },
-    {
-      "id": "62cb4aa81c8f",
-      "title": "Opinion: The ugly truth of Korean beauty standards",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM2tULTlQelhHaHdrRkE1bkxGWnpSWE5sYm5Nek9RSmMwelRRaEZZTTI3QTNSQlVfRDZTQklPdDRjVkpvX05DWm5TZmZDeDVrcE1TWW83V0x2YXBncjZfQld2cE1TSU01RVBzOVl3dllnLURMSmxaUUFFaXRtdWU4R2RIaVlFQTh4azhwZ1NtRldfb0x5R282QjJjTXotcHExb0FSX21jdlRZbGxqeHhOSw?oc=5",
-      "source": "www.theoccidentalnews.com",
-      "published": "2026-10-28T15:46:14Z",
-      "category": "產業動態",
-      "summary": "Opinion: The ugly truth of Korean beauty standards www.theoccidentalnews.com"
-    },
-    {
-      "id": "0e957ec6462d",
-      "title": "Sephora Taps Seth Rogen to Star in This Year’s Holiday Campaign",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONTFEVURycENicWhISWtzbGFXeklWNVZKODctTUJfQjk2aWlGX3BBLXVlY3h0cUJKVWgwR0pTTEY1M1k4RXRtSVFJekdXZE9Ga1FSejQwTVJGNExqVlBfX2dqNmZpSC1JU1lmYlJUaFFsdUtvNk9QN25vWW9oSWFpb2pvZERyd2FiREVBalRsdlFtVkZsVVBTYXBxZ3JOcGNxcXZtUDhHQUFZN3RMRlE?oc=5",
-      "source": "Beauty Packaging",
-      "published": "2026-10-28T13:03:00Z",
-      "category": "產業動態",
-      "summary": "Sephora Taps Seth Rogen to Star in This Year’s Holiday Campaign Beauty Packaging"
-    },
-    {
-      "id": "06dc5e1c7e3a",
-      "title": "抗癌也要找回自信！奇美醫院DIEP乳房重建 守護乳癌病友身心與生活品質",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXeklEaUQxQlRzMFVVZlFURkIxdUY5ZjBzVXBkVy1nc3Iwd0lLR28tWWpnOEhFLWw5N21iY0hCYXFyN0Mtd05lR0pReDFUV0FTaTBueF9Wdi1ZdVpR?oc=5",
-      "source": "新媒體經紀人",
-      "published": "2026-10-28T11:15:22Z",
-      "category": "醫美趨勢",
-      "summary": "抗癌也要找回自信！奇美醫院DIEP乳房重建 守護乳癌病友身心與生活品質 新媒體經紀人"
-    },
-    {
-      "id": "a0d185971164",
-      "title": "CELSET Launches SOLTOX, a Korean Botulinum Toxin Type A Brand, for International Markets",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaGlxdDljUEYyVWhVZjFBLVZDMVJuVWVMWDZibVd3YUctcDl6OEUzczk0SUttZlVEdWo4cDAtUEtDSnFPUDVWQzZxY04wd2l5aGxlcFROdE80SjYzRUZlVzYzc0t4WDNsSU9Nb2JWTnl2RXFYWTlPZVc0MUFxQ1lVNzMyR1MySkx6ZkI0bXpRRElUZ1NPVHJBNkw2ejJybVo1Wm5SZWpIV0czMG5pZDlYVTdoc1RvS2tXRDh4STB0SmRvMDVfWFZmWkl2UV9Bblk?oc=5",
-      "source": "The Malaysian Reserve",
-      "published": "2026-10-28T11:06:50Z",
-      "category": "醫美趨勢",
-      "summary": "CELSET Launches SOLTOX, a Korean Botulinum Toxin Type A Brand, for International Markets The Malaysian Reserve"
     },
     {
       "id": "4d38c0eb9962",
@@ -84,24 +111,6 @@
       "summary": "醫美安全再升級！台灣微整形美容醫學會攜手跨科推三軌專業培訓 好房網News"
     },
     {
-      "id": "f4cf8d098e67",
-      "title": "Decoding Italian Beauty’s Global Playbook",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTRhMlhLdExfSXdra1JJRVpHVEdwcExLb2ItWlNDd0g5OFJ3VlF0ekRXV1BSdFpHMzBFUlJFb2pLeUNQZmdWejhMLU9vOXdwWEI0cU80YjlXdFJpZ2l0X0E4NTh0bGpIdXBySlB4SUFneUZYb2ZqLW5XMmZBNkJBQjVzS0JZTF9pZzl1ZUh0bHVrNlJrMTU0TWM0TE5NVmVBX2c?oc=5",
-      "source": "The Business of Fashion",
-      "published": "2026-10-28T05:00:00Z",
-      "category": "產業動態",
-      "summary": "Decoding Italian Beauty’s Global Playbook The Business of Fashion"
-    },
-    {
-      "id": "fa435f843c36",
-      "title": "韓妝「遮瑕色號」你選的是你的膚色還是瑕疵色？彩妝師用色輪原理教你選出真正有效的遮瑕色 - 墨新聞-MORE News",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9LYmlMbXNVa0JyNTJQV3FHcThnSHhVMWhPbnp4cnpqaTN5VkNER1lsTlBQMzRyNjlaN3gxQTZTN3lIdw?oc=5",
-      "source": "墨新聞-MORE News",
-      "published": "2026-10-28T04:59:50Z",
-      "category": "韓系保養",
-      "summary": "韓妝「遮瑕色號」你選的是你的膚色還是瑕疵色？彩妝師用色輪原理教你選出真正有效的遮瑕色 墨新聞-MORE News"
-    },
-    {
       "id": "1fc8a3c8d7c1",
       "title": "RIMAN力曼通過WFDSA世界大會及濟州體驗之旅，讓全球直銷行業領袖瞭解韓妝創新成果",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHN2VIa25PYzhNU29mMGlFczN0RHZJcElrckhCN185WE5CMHlUZ0JQVmoyVVFZT0M2NkpjUHRiNHRsVzhnLVBXclFDMzkwQQ?oc=5",
@@ -111,13 +120,13 @@
       "summary": "RIMAN力曼通過WFDSA世界大會及濟州體驗之旅，讓全球直銷行業領袖瞭解韓妝創新成果 經商新聞"
     },
     {
-      "id": "769558734f72",
-      "title": "Cosmetics And Beauty Market Demonstrates Strong Growth Potential With 5.4% CAGR Forecast",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVpxNjc4Wi1EbXkyMV9Bcm1paGVuU2h0WVlnLWw3QkQyemswWnFld3pJdll3b1lYUERJRGVhSFBfcTlXSUcxSU1hdkRuX3RmU1hGaHBMOUVDaGJlaVh0b2Rma1lzd1NQYnZrbWdic3RidGhaQVpwTDg2cG13ZjJETkQxRjNESkJsU0NJemVoTlA2Z0lvR2VpSHd5WjFWaFI3My0zOU1nQk42QjF2c3J6Sk5tZ0lxODIwdXVmWnlFVngwODZuaXVfYQ?oc=5",
-      "source": "EIN News",
-      "published": "2026-10-27T18:45:00Z",
+      "id": "b2e267109f6b",
+      "title": "How Ben Bennett and The Center Are Shaping the Beauty Industry",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVTlabEIwRkxkOF8xSUdDZVVSTnVSbHJCX0xkdy13OWJZZ3k3MnVxYVBrdXBDZnpEaHhRbHNJQ1J1WHpMR2R4Tm1meWppcTRVVWh0UmNSd09ISUFXRW9yTkNWMzhEcXZYMTlNY05BajV5OGRHdkQzblp6Y1VQa0wxXzB0R3JJbk9fREJ3c0ZUQnpqcVlfNHpJYm1BbGQ4aDdKT3lJ?oc=5",
+      "source": "WWD",
+      "published": "2026-10-27T14:54:59Z",
       "category": "產業動態",
-      "summary": "Cosmetics And Beauty Market Demonstrates Strong Growth Potential With 5.4% CAGR Forecast EIN News"
+      "summary": "How Ben Bennett and The Center Are Shaping the Beauty Industry WWD"
     },
     {
       "id": "2e228cc63769",
@@ -129,6 +138,15 @@
       "summary": "How the beauty industry is boosting High Streets BBC"
     },
     {
+      "id": "87656fa32759",
+      "title": "The three trends transforming beauty tech",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tRzJQQ2lkWFcybEQ2Tm80aFJjQ3lkLXBPSV9XdG5nTVlXNG5qQmFrWjJfeWhGbDRVZExNV3UxSWFNNEIxZUJRdUhpSWlaVFpNMy0weWFMeE0wLXVBcFptUkQxVWkxVHR2b2xFNXU3NWVjOHM5WHBqVUQ0SkhhUQ?oc=5",
+      "source": "Personal Care Insights",
+      "published": "2026-10-27T13:51:20Z",
+      "category": "產業動態",
+      "summary": "The three trends transforming beauty tech Personal Care Insights"
+    },
+    {
       "id": "6b34f1e3fd54",
       "title": "L’Oréal Groupe’s third-quarter results reveal where the beauty industry is headed",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SUlhwWTEzekpQMk10MVFLanZ5Y0tIeWFTY1BNbVZpWXhISC1oZFJPY2RpWlNyZXotQ2stdWdKb1d5MWtUYm1FM0J2U1NacVJqSnJiQ092Uk53RnNwbDJPdGgtVU5Zcl9B?oc=5",
@@ -138,15 +156,6 @@
       "summary": "L’Oréal Groupe’s third-quarter results reveal where the beauty industry is headed Vogue Adria"
     },
     {
-      "id": "617f4c427242",
-      "title": "K-Beauty與生技藥品雙引擎帶動，韓國生技醫療出口激增19.4%，全年300億美元首度突破在望",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpWEJxTDBDWUFrYTFIVGllSW9MMUQ0ZmRoRHNub0Nhb1k1NEs0NER6MnBaY0NEM1lRNGt5WXUyZ2FjR1htNHE4U0pjc3djek54Z1BKdjhhbHZQb0lSalQzRlJmYzJhLVZLMTdJNW5WSmRyYlR1ZEtiM05R?oc=5",
-      "source": "BigGo 財經",
-      "published": "2026-10-27T02:35:00Z",
-      "category": "韓系保養",
-      "summary": "K-Beauty與生技藥品雙引擎帶動，韓國生技醫療出口激增19.4%，全年300億美元首度突破在望 BigGo 財經"
-    },
-    {
       "id": "2764908c5ffd",
       "title": "韓妝狂潮後的下一局：當大陸美妝撕下廉價標籤 歐美消費者為何開始買單？",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0eGpiZW54VzVWTjFldlYwRHg4dDJuWlRsdHZlNTh6dEt6bjQ0bTZ0R1FCRFJVaHkycFUwcVN1M0FkelVENUplWTZXSmxoTVI5OUVXWmlpaUZpT0FIdkJkaHV6OVRjZE9DUk5IRkln?oc=5",
@@ -154,33 +163,6 @@
       "published": "2026-10-26T23:00:30Z",
       "category": "韓系保養",
       "summary": "韓妝狂潮後的下一局：當大陸美妝撕下廉價標籤 歐美消費者為何開始買單？ 中時新聞網"
-    },
-    {
-      "id": "95876134a5ad",
-      "title": "Is the beauty industry selling insecurities instead of solutions? Why consumers are finally questioning beauty standards",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOLWxJOVk1UEprUHJ0dkE1c08tRG1fZ1Jja1BXWXRUblY1QW51WEl3a1Zvb2ZPQTRBZnVlUlpCZlg0RnNUUkxMNmpZYUxLbGNFZEh3RmZsdDZPd21pelUteVgxWnVfYkFzdUJoS1NXcU1Cd0tlbGtQQUxHSmZIMUVCbjJXQldWSXRfTGtpZ0ZCQ211SjdLYi1OYldyMzFlMUtVZzF0V0ZQVUZtdlhoUWR1WFd2ZmhTbWkwY05oYnlXaWIwdkpJaFFfTDEyaTdaMkp2Zy1Ld3A5UmxxTGxDWC03M3VaMldJSDhoN2tzTlNxb2dHazhzWjVRRWtRajBrbjdLdkpDcUd4Y252WGdSbDRsdXg5Mk94VGQ4NmRMZndUZ1BnNHZf0gGsAkFVX3lxTE5LNlJKSXF2Uko0Z0RSc3dTNTMxcTd3cnRpT2xENWlYbm5RVFh3bVJOWW9neXcxWHdpMnU4Zk4tOVlRWUQtWW1DdTR2WmYzM3R4MG1qMUE5TkVlWXJBakExVm4yd3ZxRHdVTHRxSTUtLVVqcENXQXdIRmd5VXlKUDR1eWZKZGRnc0xvQlBGUHpic3BITTdFRklXZU1iQ0J1eHFyRHk5OG9EQ0w4bU1md1p1Q1RUaXg1aVM4NF8wVjh6amJkUWoxRkdadEFNajExU2ZEdEtCZEJnTXEtVjJvcTVzUXNvSmpjQ21ZajZlTklQU0EtOHd1R0RBNHVIckk4TFBobktSTWkzZThaeUN5S1hRT0hNaDhiYVdidHMtYzVjbWtMZDBiRkt5OXcwbQ?oc=5",
-      "source": "The Times of India",
-      "published": "2026-10-26T10:08:09Z",
-      "category": "產業動態",
-      "summary": "Is the beauty industry selling insecurities instead of solutions? Why consumers are finally questioning beauty standards The Times…"
-    },
-    {
-      "id": "4ffd5501f970",
-      "title": "K-Beauty與半導體雙引擎帶動，韓國中小企業Q3出口334億美元創歷年同期新高",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KWldvX3NwZzF6REVZb29VMkE0NWhPTldhWXpXLWt0TTNuVTdWeXdtdnNHMnF4VTdMMkYtNF9ZVVZveVRiRUZ4MVpZSW9kZXNaME1QcGtyMHZDT0NhZFVQTUF0ZndWWVlpZVFHcmV6YnpyTHZ3Qk1ibzJR?oc=5",
-      "source": "BigGo 財經",
-      "published": "2026-10-26T04:25:00Z",
-      "category": "韓系保養",
-      "summary": "K-Beauty與半導體雙引擎帶動，韓國中小企業Q3出口334億美元創歷年同期新高 BigGo 財經"
-    },
-    {
-      "id": "6f1efe872ff3",
-      "title": "百萬網紅狂整形...上節目「沒濾鏡加持」洩真容　震撼網：認不出來",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jd0FBVjdua0NMRTlvRjRtODk1dU1NVjcxNFU3cWV1TERNWi1DZHNnZjN6MUxiLXJlVnhPQnVmdGlwV3Flc0ljMXF30gFfQVVfeXFMTnJEN1J2N0xqQlRQZ0xoNE5QQk9XT182aUZtSGlvYlg1V0NGM2g5WEhma0lZRU1WTDlFUTVvT2Z6blFycUhfNXd2YlBUcmlua3FJeHhDUU03VTUxQzJRaTg?oc=5",
-      "source": "娛樂星聞",
-      "published": "2026-10-25T13:29:36Z",
-      "category": "醫美趨勢",
-      "summary": "百萬網紅狂整形...上節目「沒濾鏡加持」洩真容 震撼網：認不出來 娛樂星聞"
     },
     {
       "id": "c9dffef536af",
@@ -201,22 +183,13 @@
       "summary": "【有影】三軌培訓聚焦醫美安全台灣微整形美容醫學會、台灣婦產科醫學會、台灣泌尿科醫學會跨科交流 Yahoo新聞"
     },
     {
-      "id": "26de619b48f9",
-      "title": "What is PDRN Skincare? Why’Salmon DNA’ is Trending in Korean Beauty",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNWNMNDh1Nk9JQkdQRTJXZzM5bnVyWnpnYUsyRFRubUJvSFBpMndnbUZ5T0Q0SkoxMGkyQ1EzNktYOWJGUWxTajZzLWdGa0dYQklFQXlkUkdiNVcwX2RRaWV3dFZxMUZIT3V2UEtIQkJGa3NBUEVwbHBoTGhyd1dyNFVaVUVsS3AwWU5yS3c4UVp1LVlXNVpTajg0UEpGZ18yaXZvNVBGVlhaWjJsRTZzNmFFVmFCa2c4amdESE5LSXA?oc=5",
-      "source": "The London Economic",
-      "published": "2026-10-22T10:20:07Z",
-      "category": "韓系保養",
-      "summary": "What is PDRN Skincare? Why’Salmon DNA’ is Trending in Korean Beauty The London Economic"
-    },
-    {
-      "id": "5e116e20f7b3",
-      "title": "[Interview] ‘It’s not about turning back time’: Merz champions skin longevity",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83OGd6aU9SVDVSUi14dld6Rm5GRUVhZ0pzX3JuM2ZockZha1B5M09JeXd4eG5qM0t4dU5XVE0td2NhNWJfb3FtT0RaN3dVemE3THM5ZllDcmRrUzRTSWN6Z2QzLXdkQXZtbkY0UVFR0gFyQVVfeXFMTjdkN2hrSGtJQU14YzlLajRaWDhOUVpuaDVyd3F1OWhRUTBHN0lFeENPUVRQbS0tNW41OGRoVWJ4ei1KWFJZbTY3OU1iQXR5MUMtcWtCQXpaLTlBRWJpTGhmWnE0TGI2TVU0V1o0aWVsRVlB?oc=5",
-      "source": "Korea Biomedical Review",
-      "published": "2026-10-20T05:38:34Z",
+      "id": "779d0888644b",
+      "title": "Karina「AI 神顏」帶動韓國醫美？跨境醫美顧問黃震軒Ethan 揭韓國醫美變流水線的驚人面紗| 姊妹淘",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40Nmc5b1J3c1hOZG15cjFjN05vTFNUUWpzM2EwU19KcThGbENqd3pPLVpDQkRxVS02dDEwYXhydmlnZzVyY3VjLTllYzBsUVV6eTRlWTdn?oc=5",
+      "source": "LINE TODAY",
+      "published": "2026-10-22T21:29:31Z",
       "category": "醫美趨勢",
-      "summary": "[Interview] ‘It’s not about turning back time’: Merz champions skin longevity Korea Biomedical Review"
+      "summary": "Karina「AI 神顏」帶動韓國醫美？跨境醫美顧問黃震軒Ethan 揭韓國醫美變流水線的驚人面紗| 姊妹淘 LINE TODAY"
     },
     {
       "id": "2a93c1dfa3d1",
@@ -246,15 +219,6 @@
       "summary": "Face Forward® Aesthetics Expands Injectable Portfolio with Letybo®, South Korea's Leading Neurotoxin PR Newswire"
     },
     {
-      "id": "2318e53ed048",
-      "title": "K-beauty爆發 韓妝股逆襲晶片股 Cosmax股價飆76%",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nbWRaOWQ3dGRNRHp3YXM5UHk0YV9PUEdNZDE2MTdaSjJYTnMyd0xyR0x5d00ycnZLMUVvVEo4VjdqZlhxY2NKeklDQ1g3V3JfRXhNdVJNSEpmMzlraVZMOUJB0gFnQVVfeXFMT1BvYkpseWFxVXZBdEI4M3dBcnVjOFZsRVBlSWpSa0dKQzNUcGlVa3dIbS1RQm93RTdfMlFVSFljUExBYXl1bUlpeVJ6VHJOenNTQjNacnFhdWIxNG82cTB6UG1scHlPTQ?oc=5",
-      "source": "世界新聞網",
-      "published": "2026-10-16T07:00:00Z",
-      "category": "韓系保養",
-      "summary": "K-beauty爆發 韓妝股逆襲晶片股 Cosmax股價飆76% 世界新聞網"
-    },
-    {
       "id": "e381f043be23",
       "title": "Meet The Korean Skin Care Ingredient That Fills Wrinkles Like Magic",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelUwOEJ6UVhNemxPR0tJei1XX2dCWTZhUjRWazRhbkktaDhNMFdCSDBQZDlwaVNEQ2hHYnJxQUpHS2R6NEFuM2ZCelBjN2FxNERGTFdvM3EtZVYyX3dGeHhOS3Q4SHZEQlpza0Y2bmMwdk04UXZOYVRyOWp3VUVoTjlYY3FIdXhtemwxRG5wcUlUZTM4YWdr0gGcAUFVX3lxTE1FSDk5bHBXLVVRN0dJMUNnM0IxbWZ5alVjMndfcnpjRExRa2ZERlpSdjg5bHhrZjRXMlNFaDhsRzVTdjVHQmd1REo2NWlFeEtrMGg2VHp6LWRKb2F6UG9VbzhXbjFTMmw2eHJMSk5EN1VBekVBQnF5S0pKb09aN3VUcFA5RmdXa3V3eUVYMU96S21YT1FjY2VKdzhTYg?oc=5",
@@ -264,13 +228,22 @@
       "summary": "Meet The Korean Skin Care Ingredient That Fills Wrinkles Like Magic HuffPost"
     },
     {
-      "id": "32fe9b3fd308",
-      "title": "K-beauty breaks boundaries to offer broader solutions",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVl9Oc3ltU1Y5aXF0dTNIUzNCb3VjNU5TLXZvcDNUQk40ODZSZmJhSl9YUEFkNmd1STdoWnR3NTVfeGZ3TlhhY1pLMktFOWdCNXRiWk9wRkdOY1V5Sklxb2p4VG1GUUlJd2hQd0ZRZmhSWDVuSXg3TUdBT004eUdGOGt3N3VKZmJPb1VPa2pfamtqNWNDNVBIM1Zoa2tPX0dSRVBmdjZNajNwOWtZR2lN0gG0AUFVX3lxTFBialpkNjRBZFB1NHM1Y2tsY3hwdXNUQzBzd2ZGTzQyVEFZSGphTFlhSk0zUnZCalZxY3piQnBIRkppMWxxZm9INHNyakxSOFE1aGZrWjVMN2o2MzNLajJVWG40Uk1vSThsWGRzdlVhYl9McUhoMXBGUTNfbGFfbWRuTFFkUWxVT1BiNXZyWXUxZTBKYmNCSVM5X0RtT0FpM2lQMFFfWTRxOFBzZzRFX0RDU0htaw?oc=5",
-      "source": "The Korea Times",
+      "id": "58b0b8eafc36",
+      "title": "Charlize Theron’s anti-aging Korean PDRN cream is 40% off right now",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzJPYnpqWlR5OUM5RUVBNU5tbHJ2YkVUd1Q5VkZtcWJIakQ4V3h5VWEwdl9wcE14b3Axdmc5Y01QeFNER3RYeDhsR2lCbUYwSFFGNEd2Q3ZlT0tpckxiemRIY0lUTGFRb1VXckYzVFlYWDR3NzlYVFZlSFhRZW40d1M1VE9FZVFaSFljdmJQaXhYMXRaRFlyUnJvc3FTMl9a?oc=5",
+      "source": "Page Six",
+      "published": "2026-10-08T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "Charlize Theron’s anti-aging Korean PDRN cream is 40% off right now Page Six"
+    },
+    {
+      "id": "8f997896a983",
+      "title": "The Best K-Beauty Products to Buy During Amazon Prime Day",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SUDVvTVRNazh4Z2tOR29pVEpzWFJ1bXFEcFJBaFBLSFNWSGNpVzljcVdDU1IxRENRWTVzUTBSUjlWczNiTHNQeWVrMU9oWEZnYU82dFZWSGVPNFZ2OTQzS1NBRQ?oc=5",
+      "source": "Coveteur",
       "published": "2026-10-06T07:00:00Z",
-      "category": "醫美趨勢",
-      "summary": "K-beauty breaks boundaries to offer broader solutions The Korea Times"
+      "category": "韓系保養",
+      "summary": "The Best K-Beauty Products to Buy During Amazon Prime Day Coveteur"
     },
     {
       "id": "7a6d51070eea",
@@ -291,13 +264,13 @@
       "summary": "來自整形外科醫師的第一線觀察：GLP-1瘦瘦針可能帶來意想不到的肌膚變化 Vogue Taiwan"
     },
     {
-      "id": "b9d69b57176d",
-      "title": "Laneige taps BTS star Jin for spicule-powered eye patch launch campaign",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRExmWjQ5NFRBeFVqZjVKSF9XZ3E1a2FXUU41WnM0V2JyMTY1Rng2UkVFcWxXbk5aSFlrWmV6MnhCd1dJcUVsTF8wbmpDX1ozYkxJMzktSTUtSjdYdXJTdlV2c05JLTdqN2JQeHA1T25nOXMyMEZwSEcyQ1AxaVVSMG5xNmdZbHB5c1ZXUTZsR25CQQ?oc=5",
-      "source": "Cosmetics Business",
-      "published": "2026-09-18T07:00:00Z",
-      "category": "新品牌動態",
-      "summary": "Laneige taps BTS star Jin for spicule-powered eye patch launch campaign Cosmetics Business"
+      "id": "4c1dffc6abfd",
+      "title": "K-beauty爆發 南韓美妝股強勢崛起 ODM巨頭狂飆搶走晶片股風采",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qcXI4cTI3azVGMXJqYzN0MXNaVnQtUmw3QXd5b2ZEVFpXcWlQSkUteFNwdF9XOWtVV2h6WXRxd1FObjhQcGowSm1YS2pwY3NjcTFXc2Y5elVaZ9IBX0FVX3lxTFA5NjVkcURrbFdob19zQU9adXpMbXlLMWhKVFBrRlVOMGp1UWU0aGtyVGcxWGhNVDFNZDl3cF8zTmszY0s3YjhfQS1LOWwwTGh2eHpqdVFFRGt4dWpVTkVJ?oc=5",
+      "source": "經濟日報",
+      "published": "2026-09-21T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "K-beauty爆發 南韓美妝股強勢崛起 ODM巨頭狂飆搶走晶片股風采 經濟日報"
     },
     {
       "id": "b007607e878c",
@@ -318,22 +291,13 @@
       "summary": "韓流軟實力再加一！K-Beauty改寫全球美妝觀念，連美國政要都入坑 DQ 地球圖輯隊"
     },
     {
-      "id": "a7a913e6197b",
-      "title": "Rare Beauty’s Chief Product Officer talks new fragrance launch and what it’s like working with Selena Gomez",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wQ0lpYzV3bGVIaGZOdmlEQVRubUFqV2NzSGhOM09LWEUzOEF5eFBWaXkzdGhSMlRZdnBadkVXTV9sLVZtXzFIdERFSXNwWkIyQk4tSXRkb3hYSG1XaEhiZzNpVm1ZTlVGcHFGVFR3?oc=5",
-      "source": "CANOE",
-      "published": "2026-08-07T07:00:00Z",
-      "category": "新品牌動態",
-      "summary": "Rare Beauty’s Chief Product Officer talks new fragrance launch and what it’s like working with Selena Gomez CANOE"
-    },
-    {
-      "id": "6b27e1766b49",
-      "title": "It's Been a Minute Since I've Rated TikTok-Viral Beauty Products—10 That Have Earned My Respect in 2026",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMTI5a3pQcUp1TUpxajFmU3dMRk9pcUd0aEhMeGszb3gzdVNIUGJqVmFQemIyVzhZRDFqODdRbHZUYUthMW1GU2JZS2FDb05Zd3RsUDM0NktTV1VVTlJrRDJ2ek5DV3pUR1NVUkJUZS1nb0M4U2VV?oc=5",
-      "source": "Who What Wear",
-      "published": "2026-08-05T07:00:00Z",
-      "category": "新品牌動態",
-      "summary": "It's Been a Minute Since I've Rated TikTok-Viral Beauty Products—10 That Have Earned My Respect in 2026 Who What Wear"
+      "id": "c990efe4714a",
+      "title": "K-Beauty熱潮推升韓妝ODM三雄 上季獲利同創新高",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41X2dYTWJadjQ4UG8wLU9Feks0RURqdVZfWm05U3I1RGhLZ1oyd28tbWxMaGtXVXpSZjl6Q2wwSldIWDlxWmZJcjQtTS16ODRJQjNjT01xLXh5YTRhNTJHajhsRkJOS3Rsa3VkM0JfTFg4Tmd5eXlyMTVB?oc=5",
+      "source": "BigGo 財經",
+      "published": "2026-08-14T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "K-Beauty熱潮推升韓妝ODM三雄 上季獲利同創新高 BigGo 財經"
     },
     {
       "id": "4894e25a3b9e",
@@ -345,6 +309,33 @@
       "summary": "From Snail Mucin to PDRN, 10 Ingredients That Define K-beauty Vogue"
     },
     {
+      "id": "25dcd798914b",
+      "title": "The Top 25 Beauty Brands Trending in 2026",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5vUUFWSWZLSFdXbUxXc1ZqMFlSVWJBVl9NMWpwcHpjQkdPYW5zeXlVdEdTR1U1bmVReUc0VUQxRm55SHRUZmdPd2wyb3hlandOVXBvQXZNWnFld29xblpSdVppTWUwQlgwdzdHZnZmVUpEeHZmU1R5QnIwZw?oc=5",
+      "source": "American Salon",
+      "published": "2026-08-03T07:00:00Z",
+      "category": "新品牌動態",
+      "summary": "The Top 25 Beauty Brands Trending in 2026 American Salon"
+    },
+    {
+      "id": "3a25681210c1",
+      "title": "Exosomes, Growth Factors or PDRN? Here’s How to Choose the Right Skincare Ingredient for Your Goals",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NbEJYcTZHYzk0eXltelRIWjFMcmxESHBUNjZOdjVrVEU5TGJwa0dWQm9PYUpjOVhpRG5MMjFqZUEwSU5vaHhlRUdXdHEwRHRLR01XdThEaHUyLWYySGlyYjhWWUJDQU1NZnR5LUFjRdIBb0FVX3lxTE9lckpGa0xndlVPRVlydmNSdVg0RGdJZldpbk01dExfNmhqckNUX2loSG1QLTgzVFJWbFVpX0hoMUlBRWdDS2NMVkxHWjJBaWR1cVZUV1h3Y3dram91V2VwNnI1UjdTbEtiWWZEWlJuQQ?oc=5",
+      "source": "Charlotte Observer",
+      "published": "2026-07-28T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "Exosomes, Growth Factors or PDRN? Here’s How to Choose the Right Skincare Ingredient for Your Goals Charlotte Observer"
+    },
+    {
+      "id": "609baeff967b",
+      "title": "See the Top Beauty Products for July 2026",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6ejlkRy1hVWRSakhOUVRzR2M5a3IzRU8zakRFdG9GMUJ1N0oxUEszTFlfMF9yLUItSHIzc3FOMDhqdWZGLUw0N25tSG5KMWc1SHlhdElWV3V3TnRoOTl4NmFxbUxvQ3E4LUZGMUl3TjJscHc?oc=5",
+      "source": "People.com",
+      "published": "2026-07-24T07:00:00Z",
+      "category": "新品牌動態",
+      "summary": "See the Top Beauty Products for July 2026 People.com"
+    },
+    {
       "id": "96723f947ba3",
       "title": "Can Summer Fridays Be Beauty’s Next Legacy Brand?",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0ZKbXVOY3RhS3RWQjRXeXctODJLMFQ5eDFWSjdYRDhFOVVZQlZ1d25NeGxxT0cydlRaQVNEMTRqdWNiblAxbmx1Yk83QUJHSWtkeXBJaDdtcGplZ09PU0FaT1ZENlFvR2NnMS1kLXhuNnZMdms3RVl2Ukx4cngyZ0hTTQ?oc=5",
@@ -354,13 +345,40 @@
       "summary": "Can Summer Fridays Be Beauty’s Next Legacy Brand? Vogue"
     },
     {
-      "id": "b310b6d4f6b4",
-      "title": "Which Beauty Ingredients Are Trending Most in South Korea?",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDUxekRVR0llb3FLSTBxWTZ6Mml4bmJXX3VIbzJfWlgweVIyVDR3RmdxdkkwZGVRWS1OZnZEVndHQTFhdVlKaVRlT2pMdFAxSVdpZG9STF9MV3QtX0c1dEwzYks0UlVCZ1JNUkVxRFVQNDRVaXFpY2g1UUZTZzRTeUs2TV9IOE1SMUl3S21nZGFsM2xHWE9OS3Z1RlhibXFvRjBtZzBsdXY1UXRLLU5DamxZWElDSDcwMXc?oc=5",
-      "source": "WWD",
-      "published": "2026-07-21T07:00:00Z",
+      "id": "804bdf4baeaa",
+      "title": "Exosomes are taking over beauty, but not for the reason you might think",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzMHdxdkR5Sld6dEFrZzdyejIyOFhFeDQ1M3FaeFdqM3NRekFpSzdSRkR0TnpMUEJ3b0dIVDZKRVdEM0dSVVdzQ0VqRFNyT1JWamxFWmotWUxPdw?oc=5",
+      "source": "Vogue Adria",
+      "published": "2026-07-12T07:00:00Z",
       "category": "韓系保養",
-      "summary": "Which Beauty Ingredients Are Trending Most in South Korea? WWD"
+      "summary": "Exosomes are taking over beauty, but not for the reason you might think Vogue Adria"
+    },
+    {
+      "id": "ae3c92893f4d",
+      "title": "Curious About PDRN? These Are the Serums Worth Trying",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sTnpUOF9pQThQQjl3Vy1GZjhCX3VUVEk1ZGdJMHJMRmtJZTBBV1lNR0NDRDBwRmMxQmJkWEcyTWJHR2lrWnQxZTN6bEtXam1MNzYzRjdzN0k?oc=5",
+      "source": "Allure",
+      "published": "2026-07-04T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "Curious About PDRN? These Are the Serums Worth Trying Allure"
+    },
+    {
+      "id": "c8e0e7e098f5",
+      "title": "26 Influencer-Founded Beauty Brands Taking Over Our FYPs—and Vanities",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uelZQRXJTVi1wd2dOWDlxSFRBSVVTT0VFcDgzSEhBSnN0aFlieVFIY0czaUVRNzVreHMyMV9rQWpGT05ORGpURHQyaXVCczBMZDhVRm1VSnlPZldkM0ZQYnl3Tl9Odnc?oc=5",
+      "source": "Byrdie",
+      "published": "2026-06-29T07:00:00Z",
+      "category": "新品牌動態",
+      "summary": "26 Influencer-Founded Beauty Brands Taking Over Our FYPs—and Vanities Byrdie"
+    },
+    {
+      "id": "9d209522d3e3",
+      "title": "How To Go Viral: A Masterclass From The Biggest TikTok Beauty Brands",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXZTdTRkcHg5d3VTT2M4NEpFbUdVOGgyN3Q0OEw5eUVzZ0tPRW5XOWtaWmUzTGN2akRkdlRxR2FPcmFIMnNVVnUzY3EyRWtyX0tnNGgzZE1rT1l6OXVQc1g4M2hyckNhbjNMU2xRMnBRNG1GcXhjTTZhMEZLcTI0V0ZfRG1IMWRTQUFodmluWU9hLUIxcE9ncm42ZktFMkhZNTNZcUlnSWF6dw?oc=5",
+      "source": "British Beauty Council",
+      "published": "2026-06-17T05:44:26Z",
+      "category": "新品牌動態",
+      "summary": "How To Go Viral: A Masterclass From The Biggest TikTok Beauty Brands British Beauty Council"
     },
     {
       "id": "f1be3a5a2504",
@@ -372,31 +390,31 @@
       "summary": "From PDRN to Peptides, These 10 K-Beauty Ingredients Are Defining 2026 Skincare Byrdie"
     },
     {
-      "id": "42cb6517ccb0",
-      "title": "Patrick Ta’s Transition Blush: The Viral Launch, Explained",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk5lNUthMUhfV0hQVG9VVVEzdEpkZHJWTEFCVENuMTJTZkZtejBsREx5Q1BkMTZ4NTZMQzQ5bXFoNFBORlpvRVFtcVF6NjBZRXNiQkRONnlkVE9nazdsTkpaYUIwWlR6Y0FYVi1ZaUhheHZNcXI3cERIUFQxRXRFN25OV0pwRmpETDJqcnZlenVuemdvaXFTWTd0R1BmMW93cER4cnRPTGc?oc=5",
-      "source": "EUPHORIA. Magazine",
-      "published": "2026-05-28T07:00:00Z",
+      "id": "da641dd7987d",
+      "title": "2026韓妝趨勢必看！金色、薄荷綠打亮爆紅，韓妞都在畫的「濾鏡光感妝」解析",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DY3gtLWtjUTdvR3hxNDlyMW1ob18zWTgtd2kwWDNXbU5TbURRV0ZJUnY4NFREbDNGSGZpSlZ4UTYzbk84eE0wUEhMUk9SUkpyX0ZhLVdCdXR0TWRy?oc=5",
+      "source": "Marie Claire 美麗佳人",
+      "published": "2026-05-18T07:00:00Z",
+      "category": "韓系保養",
+      "summary": "2026韓妝趨勢必看！金色、薄荷綠打亮爆紅，韓妞都在畫的「濾鏡光感妝」解析 Marie Claire 美麗佳人"
+    },
+    {
+      "id": "f78815018812",
+      "title": "Lyfe Capital targets medical aesthetics with first solo control investment in Korea",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGZkYWREVXNtTklpT296QXdjVlo0OXJPUW9GN21MaUJQc3FUWlRFTWZMMUozd21aWG53VGlualZHeFE5N3lpczNJTkczSkM1a29VZkdJMnhKTHNDbTJ0c0g4b1JVU08tX2JKaENyTlFYTDM5a3cxWlptcVp6cE5mQzdTTmlRMFFqdnBDT1kxbTRleWZyYjN0N2RwNlFlcEJ1NzM0dEctVUt3RGFPMXd3c1ZRRjdJTXNzUEFTb1ZjVU1JNkI5QmhFdFRDSQ?oc=5",
+      "source": "ION Analytics",
+      "published": "2026-05-06T07:00:00Z",
+      "category": "醫美趨勢",
+      "summary": "Lyfe Capital targets medical aesthetics with first solo control investment in Korea ION Analytics"
+    },
+    {
+      "id": "f8ba85791189",
+      "title": "Wonderskin CEO Michael Malinsky on turning a viral product into a thriving beauty brand",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVEhDTFp5dDBnTWFTcDh6SWxjTEp6VlQ3X3ZoVVZaaVN1Y0tQVVVnUDlrX3JuOHMtNXNyWnBKM0U5Y3pSc1hGdjZZNFdsS0tfTHhaZkF4cVdFN1VmUnBmM3hCYTF5M0pDUmZ6d1ZGblBuNndZeEZnYUVMWF9oVWY2R0doaDNYUGpwczRIX0lRTC0xWlJNcjZRbWIxQkxmcmtFZG5SUDMzdHhFZTA5MTBnSG53c0I0azlT?oc=5",
+      "source": "Glossy",
+      "published": "2026-04-16T07:00:00Z",
       "category": "新品牌動態",
-      "summary": "Patrick Ta’s Transition Blush: The Viral Launch, Explained EUPHORIA. Magazine"
-    },
-    {
-      "id": "8e150d7fe837",
-      "title": "I Spent 6 Weeks in Korea–These Are the K-Beauty Products Everyone's Buzzing About",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXE2YUI3a2MteUdfbFdzb1o3Nkt6ck84NEpuTkk5bmZVR1IteE1hUk1GRk5zYnJsLXpHa2xkc3VteHBhUUJXMkRzNEtFVXJsVXRPaWRabUd6aGdNaU9yUkVocFZ4MTVJd3RaMzRWQkZJZGFkNnNvUk1RTGdmMlp1NDV1dmw?oc=5",
-      "source": "Good Housekeeping",
-      "published": "2026-05-27T07:00:00Z",
-      "category": "韓系保養",
-      "summary": "I Spent 6 Weeks in Korea–These Are the K-Beauty Products Everyone's Buzzing About Good Housekeeping"
-    },
-    {
-      "id": "ca183ea646b2",
-      "title": "Best PDRN serums according to dermatologists",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkRNTUlPRkViZEwwVHN4TUtBYS1YNnJpTUFmUU1Hdlh2bUYtY2VtcUVQRlJjQ0RHQzhVa0luTmdBU1dWdlNYb1UxU1Z5RFVrT3VnNzJ4WmNEZ2dEUkxtcWNmRGpqVEVIWDlqQUZ0Wjd0QmlyOEhkdVBnX2VEQmtvTzlhNXpLUXM?oc=5",
-      "source": "The Independent",
-      "published": "2026-04-08T07:00:00Z",
-      "category": "韓系保養",
-      "summary": "Best PDRN serums according to dermatologists The Independent"
+      "summary": "Wonderskin CEO Michael Malinsky on turning a viral product into a thriving beauty brand Glossy"
     },
     {
       "id": "6c44733cac58",
@@ -408,31 +426,13 @@
       "summary": "Your Favorite Celebrity’s K-Beauty Brand Is Now at Target NewBeauty"
     },
     {
-      "id": "71c48e7ede33",
-      "title": "With new launch, Hailey Bieber's makeup artist aims to dominate foundation sales at Sephora",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTDhiZWNLY3ZmQ0RmRHpaR3pxM25kdHRtczFaVWpuMGlCMEZOZ3A1aGV5WHlXRTJVWW1yX2lhY2UzU0o4VmlDZWtydkZVUmRLTy1FdUZMMTF6ZUFNTWxJVlN5OFNlZHllcXBKWmZtSEsxN0ZHenFOZ080ZEVXc00wN20zenpVbTlRV3dRS1A0WHIwbi1DNmp1ZFdwbE5JcEw3NTM0dldMVWJBRGNtbzdIQkxlbXpvOXlQdHdz?oc=5",
-      "source": "Glossy",
-      "published": "2026-02-05T08:00:00Z",
-      "category": "新品牌動態",
-      "summary": "With new launch, Hailey Bieber's makeup artist aims to dominate foundation sales at Sephora Glossy"
-    },
-    {
-      "id": "879989e65cc3",
-      "title": "How Huda Beauty Turned One Product Launch Into a Multi-Channel Marketing Masterclass",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuUkNQZVRybVBSZkM4NFFIUkc0NnRfSXdjWG4tVTRYR2dGS2VXY2s0MlVYRGZjdEdKcnFJRXM1SDhQSU5FZTBXd1lWUlFrOVQycVF5QllaMnJnUmlwejd4bGt3dWZNRHVkWTNjWEhERW4yRVAyNXhR?oc=5",
-      "source": "RETAILBOSS | Substack",
-      "published": "2026-01-26T08:00:00Z",
-      "category": "新品牌動態",
-      "summary": "How Huda Beauty Turned One Product Launch Into a Multi-Channel Marketing Masterclass RETAILBOSS | Substack"
-    },
-    {
-      "id": "b4111dbabf6a",
-      "title": "Exosome Serums Are Trending for Antiaging—These 5 Products Live Up to the Hype",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9peXFVS1puZjBEUDFSREZsWTZwdkE0X0owZE0yUzA3Z0RTVVYxVVRkc3d3dG1vcFBMWC1aR2gxZTUtS3RhWktXMU5Lc1piNjhxc1JESTZQWmY2YUc4RUZpMW52TXFIWk1YWG13aw?oc=5",
-      "source": "Glamour",
-      "published": "2025-12-29T08:00:00Z",
+      "id": "f830d9bd2ae1",
+      "title": "2026 韓妝潮流預告：低飽和度、留白眉…掌握 8 個重點，讓你美得毫不費力！",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcFFyaVZHUkJnOFhfNVVrMkJZLXd5SGx4TVY4WGlueW9VaGF1VVZHNFdHRUhUMnlBN2F1RzlMUExmTGZ5enhDYkFZNXQtZUpUdnJJOE5mUzBSX3RIb1oyWXNaTmwzNjFydDc5bWQ3SF9QV3BMUzlXMTM4NTY5M1VZVU16S0ctNWFu?oc=5",
+      "source": "Popbee",
+      "published": "2026-01-25T08:00:00Z",
       "category": "韓系保養",
-      "summary": "Exosome Serums Are Trending for Antiaging—These 5 Products Live Up to the Hype Glamour"
+      "summary": "2026 韓妝潮流預告：低飽和度、留白眉…掌握 8 個重點，讓你美得毫不費力！ Popbee"
     }
   ]
 }
